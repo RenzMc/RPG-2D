@@ -19,31 +19,45 @@ Fitur Game
 
 Kontrol Karakter
 • **Bergerak**: Tombol panah kiri/kanan
+
 • **Melompat**: Tombol jump (double jump tersedia)
+
 • **Menyerang**: Tombol attack untuk serangan jarak dekat
+
 • **Melempar**: Tombol shoot untuk melempar kunai
+
 • **Memanjat**: Tombol climb untuk memanjat dinding
+
 • **Meluncur**: Tahan tombol climb saat jatuh untuk gliding
 
 
 Sistem Combat
 • **Ground Attack**: Serangan saat di tanah
+
 • **Jump Attack**: Serangan saat di udara dengan animasi khusus
+
 • **Ranged Attack**: Melempar kunai
+
 • **Jump Throw**: Melempar kunai saat di udara dengan animasi khusus
 
 
 Sistem Movement
 • **Double Jump**: Dapat melompat dua kali di udara
+
 • **Wall Climbing**: Memanjat dinding vertikal
+
 • **Gliding**: Meluncur dengan gravitasi berkurang setelah jatuh minimal 150 pixel
+
 • **Sliding**: Meluncur di tanah
 
 
 Gameplay Elements
 • **Enemy System**: Enemy dengan 3 HP yang spawn coin saat mati
+
 • **Coin Collection**: Kumpulkan koin untuk skor
+
 • **Platform Variety**: Platform bergerak, one-way platform, dan seesaw
+
 • **Physics**: Collision detection yang solid tanpa clipping
 
 
