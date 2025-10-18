@@ -10,13 +10,7 @@ Gameplay Awal
 ![Beginning](screenshots/beginning.png)
 
 
-Pemain memulai permainan dengan karakter ninja di lingkungan platform. Terdapat enemy berwarna merah yang harus dikalahkan dan koin emas yang dapat dikumpulkan.
-
-
-Seesaw Riding
-
-![Seesaw Riding](screenshots/seesaw-riding.png)
-
+Pemain memulai permainan dengan karakter ninja di lingkungan platform. Terdapat enemy kepiting yang harus dikalahkan dan koin emas yang dapat dikumpulkan.
 
 Karakter dapat berinteraksi dengan berbagai platform termasuk jungkat-jungkit (seesaw) untuk mencapai area yang lebih tinggi.
 
